@@ -24,10 +24,12 @@ _Figma Design Public:_ [Click Here!](https://www.figma.com/file/Ez5vnOBcNL3QjFA9
 Unavailable due to size restrictions (LFS)
 
 ## Potential New Features
-1. Member of a Family + Ability to notify family members in immediate family that someone in the family has tested positive for COVID-19
-2. Member of public + Ability to create COVID data widgets in iOS 14 containing custom created graphs and charts using data from the app / data sources
-3. Member of public + need to see realtime risk assessed places for covid contraction. Realtime heatmap of locations with highest traffic (highest risk of covid)
-4. People suffering from side-effects of covid + need food and other supplies. Way to donate food and supplies to countries and other places in need automatically within a single app.
-5. People of public + want to test for covid without going to testing facility. Interface with physical device to perform covid test on yourself and the app will analyse the sample entered via the physical device connected via micro-usb, usb-c, or thunderbolt.
+| User Group + Activity (to study)                                                    | Proposed Solution (need finding result)                                                                                                                                              |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Member of a Family + Want to notify family members of covid case in the family.     | Feature Ability to notify family members in immediate family that someone in the family has tested positive for COVID-19                                                             |
+| Member of public + Needs data in more convienient location.                         | Ability to create COVID data widgets in iOS 14 containing custom created graphs and charts using data from the app / data sources                                                    |
+| Member of public + need to see realtime risk assessed places for covid contraction. | Realtime heatmap of locations with highest traffic (highest risk of covid) as well as based on contact tracing data pointing to specific locations.                                  |
+| People suffering from side-effects of covid + need food and other supplies.         | Way to donate food and supplies to countries and other places in need automatically within a single app.                                                                             |
+| People of public + want to test for covid without going to testing facility.        | Interface with physical device to perform covid test on yourself and the app will analyse the sample entered via the physical device connected via micro-usb, usb-c, or thunderbolt. |
 
 
