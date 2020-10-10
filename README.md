@@ -1,10 +1,10 @@
-# HCI-COVID-Central-Prototype
+# COVID Central
 Prototype for COVID Central. An all-in-one solution for COVID-19 related data, help, and alerts.
 
-## About
+## About ℹ️
 This app is all about being the all-in-one solution for anything COVID-19. The app features a simple, easy to use, UI supported with 8+ languages, color blind, blind, and industry leading privacy features.
 
-## Features
+## Features ✅
 - Accessibility and Privacy options
 - Language
 - Profile management and data persistence
@@ -20,10 +20,10 @@ This app is all about being the all-in-one solution for anything COVID-19. The a
 ![Design Mockup](/full-prototype-design.png)
 _Figma Design Public:_ [Click Here!](https://www.figma.com/file/Ez5vnOBcNL3QjFA9gca3Mh/COVID-Stat-App?node-id=0%3A1)
 
-## Demo Video
+## Demo Video 📹
 Unavailable due to size restrictions (LFS)
 
-## Potential New Features
+## Potential New Features 🧐
 | User Group + Activity (to study)                                                    | Proposed Solution (need finding result)                                                                                                                                              |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Member of a Family + Want to notify family members of covid case in the family.     | Feature Ability to notify family members in immediate family that someone in the family has tested positive for COVID-19                                                             |
