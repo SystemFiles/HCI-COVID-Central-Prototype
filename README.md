@@ -18,7 +18,7 @@ This app is all about being the all-in-one solution for anything COVID-19. The a
 
 ## The Design 🎨
 ![Design Mockup](/full-prototype-design.png)
-_Figma Design Public:_ [Click Here!](https://www.figma.com/file/Ez5vnOBcNL3QjFA9gca3Mh/COVID-Stat- App?node-id=0%3A1)
+_Figma Design Public:_ [Click Here!](https://www.figma.com/file/Ez5vnOBcNL3QjFA9gca3Mh/COVID-Stat-App?node-id=0%3A1)
 
 ## Demo Video
 Unavailable due to size restrictions (LFS)
