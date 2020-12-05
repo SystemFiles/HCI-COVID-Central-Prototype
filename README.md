@@ -33,6 +33,9 @@ See the results of a UserTesting scenario with real participants over the UserTe
 
 If you are part of the organization, you can find the results of the study [here](https://app.usertesting.com/dashboard#!/study/3309128/sessions?shared_via=link)
 
+## Finalized study report 🔖
+The report detailing the entire HCI UI/UX design/study/development process is available [here](/BenjaminSykes-COVID-Central-Final-Report.pdf)
+
 ## Potential New Features 🧐
 
 | User Group + Activity (to study)                                                    | Proposed Solution (need finding result)                                                                                                                                              |
